@@ -1,6 +1,6 @@
 ##### Hello My name is Kyudong Park, Android developer in Anchoreer😄
 
-<br><br>
+<br>
 
 <a href="">
   <img align="center|top" src="https://github-readme-stats.vercel.app/api?username=kyudong3&show_icons=true&theme=tokyonight&hide=issues" />
