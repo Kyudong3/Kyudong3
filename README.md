@@ -1,13 +1,8 @@
-### Hi there 👋
+##### Hello My name is Kyudong Park, Android developer in Anchoreer😄
 
-<!--
-**Kyudong3/Kyudong3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyudong3&hide=issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyudong3&count_bg=%230D0D0D&title_bg=%2340F8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyudong3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
