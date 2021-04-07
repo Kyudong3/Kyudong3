@@ -1,9 +1,15 @@
 ##### Hello My name is Kyudong Park, Android developer in Anchoreer😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyudong3&hide=issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+  <img align="center|top" src="https://github-readme-stats.vercel.app/api?username=kyudong3&show_icons=true&theme=tokyonight&hide=issues" />
+</a>
+<a href="">
+  <img align="center|top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyudong3&layout=compact&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyudong3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
