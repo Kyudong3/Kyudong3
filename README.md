@@ -5,9 +5,6 @@
 <br>
 
 <a href="">
-  <img align="center|top" src="https://github-readme-stats.vercel.app/api?username=kyudong3&show_icons=true&theme=tokyonight&hide=issues" />
-</a>
-<a href="">
   <img align="center|top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyudong3&layout=compact&theme=tokyonight" />
 </a>
 
